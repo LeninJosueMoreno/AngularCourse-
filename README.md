@@ -1,4 +1,4 @@
-# Main
+# AngularCourse-
 | AngularCourse | Capacitacion de Angular |
 | ----------- | ----------- |
 | Header | Title |
@@ -23,10 +23,7 @@
   "firstName": "John",
 }
 ``` 
-<<<<<<< HEAD
-=======
  	X^2^ 
   Estoy en dev voy a ir a Main
 
   voy a main
->>>>>>> develop
