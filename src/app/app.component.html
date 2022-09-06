@@ -1,2 +1,4 @@
 <app-componente01 [variable2]="'vengo de app'" [vaRiableDown]="lista"> </app-componente01>
-<app-componente02 [variableComponente02]="lista" > </app-componente02>
+<app-componente02 [variableComponente02]="lista"
+(variableOutput)="recibeHijo($event)" > </app-componente02>
+{{mensajeHijo}}
